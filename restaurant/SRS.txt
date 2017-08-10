@@ -1,0 +1,9 @@
+Functional Requirements
+1. What generally the restaurant is
+2. A menu of restaurant (no alcohol)
+3. Write special menu
+4. How to contact the restrant
+
+Non-Functional Requirements
+1. Use #fff5dd color in background color
+2. Use at least 10 images
